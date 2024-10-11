@@ -77,7 +77,7 @@ This is the detailed flow of the system:
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/kaymen99/langgraph-email-automation.git
+   git clone https://github.com/AIXerum/langgraph-email-automation.git
    cd langgraph-email-automation
    ```
 
