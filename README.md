@@ -77,8 +77,8 @@ This is the detailed flow of the system:
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/AIXerum/langgraph-email-automation.git
-   cd langgraph-email-automation
+   git clone https://github.com/AIXerum/LangGraph-Email-Automation.git
+   cd LangGraph-Email-Automation
    ```
 
 2. **Create and activate a virtual environment:**
@@ -137,6 +137,3 @@ You can also add your own agency data into the `data` folder, then you must crea
 python create_index.py
 ```
 
-### Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request for any changes.
