@@ -5,9 +5,10 @@ Keywords: Customer support automation, email automation, Langchain, Langgraph, A
 Author: AIXerum
 -->
 
-# Customer Support Email Automation with AI Agents and RAG
+# 🚀 **Customer Support Email Automation with AI Agents and RAG**
 
-**A Langgraph system for streamlining client interactions, ensuring every customer receives a quick and accurate response. 🌟**
+## 📩 **FULL TUTORIAL: Build AI-Powered Email Automation Using AI Agents + RAG!**
+
 
 ## Introduction
 
